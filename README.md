@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **oleg@detinkin.ru**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
