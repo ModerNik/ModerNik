@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
-- 🔭 I’m currently working on [yogurt](https://github.com/g0dm0d/yogurt)
+- 🔭 Working on [yogurt](https://github.com/g0dm0d/yogurt)
 
-- 🌱 I’m currently learning **NextJS, React, Typescript**
+- 🌱 Learning **NextJS, React, Typescript**
 
 - 📫 How to reach me **oleg@detinkin.ru**
 
