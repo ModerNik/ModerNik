@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
-<h3 align="center">A Fullstack Web Developer</h3>
+<h3 align="center">A Frontend Web Developer</h3>
 
 - 🔭 Working on [yogurt](https://github.com/g0dm0d/yogurt)
 
