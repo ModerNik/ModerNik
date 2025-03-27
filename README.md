@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Oleg</h1>
-<h3 align="center">A Frontend Web Developer</h3>
+<h1 align="center">Detinkin Oleg</h1>
+<h3 align="center">Frontend Developer</h3>
 
-- 🔭 Working on [yogurt](https://github.com/g0dm0d/yogurt)
+- 🌱 Main stack: **NextJS, React, Typescript**
 
-- 🌱 Learning **NextJS, React, Typescript**
-
-- 📫 How to reach me **oleg@detinkin.ru**
+- 📫 email - **oleg@detinkin.ru**
 
 <p align="left">
 </p>
